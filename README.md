@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimenezux
-- 👀 I’m interested in UI/UX Design, Art, Technology and Video gAMES
+- 👀 I’m interested in UI/UX Design, Art, Technology and Video Games
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on fun interfaces, startup projects.
 - 📫 How to reach me: At my email hiperionprods@gmail.com 
